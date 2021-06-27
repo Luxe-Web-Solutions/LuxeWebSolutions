@@ -13,7 +13,7 @@ namespace LuxeWebSolutions.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult PreviousWork()
         {
             ViewBag.Message = "Your application description page.";
 
